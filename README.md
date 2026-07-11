@@ -8,17 +8,30 @@ This repository contains free, copy-paste ready invoice payment reminder resourc
 
 ## Free Payment Reminder Email Templates
 
-Copy and paste these for any stage of follow-up:
+- [Payment reminder email templates](https://tamkar.app/blog/payment-reminder-email-templates)
+- [How to charge late payment fees](https://tamkar.app/blog/how-to-charge-late-payment-fees)
+- [Net-30 payment terms explained](https://tamkar.app/blog/net-30-payment-terms-guide)
+- [Invoice dispute resolution](https://tamkar.app/blog/invoice-dispute-resolution)
 
-- [Payment reminder email templates](https://tamkar.app/blog/payment-reminder-email-templates) — Complete collection for polite, firm, and final notices
-- [Invoice payment reminder template](https://tamkar.app/invoice-payment-reminder-template) — Single-page template generator
-- [How to charge late payment fees](https://tamkar.app/blog/how-to-charge-late-payment-fees) — Legal guide with fee wording
-- [Net-30 payment terms explained](https://tamkar.app/blog/net-30-payment-terms-guide) — Standard contract language
-- [Invoice dispute resolution](https://tamkar.app/blog/invoice-dispute-resolution) — Handle pushback professionally
+## How-To Guides
 
-## Profession-Specific Invoice Guides
+- [How to get paid faster](https://tamkar.app/how-to-get-paid-faster)
+- [How to get clients to pay on time](https://tamkar.app/how-to-get-clients-to-pay-on-time)
+- [Late payment playbook](https://tamkar.app/late-payment-playbook)
+- [Automated invoice follow-up](https://tamkar.app/automated-invoice-follow-up)
+- [Late payment calculator](https://tamkar.app/late-payment-calculator)
+- [Late payment letter guide](https://tamkar.app/guide-late-payment-letter)
+- [Net-30 payment terms guide](https://tamkar.app/guide-net-30-payment-terms)
+- [Upfront payment deposits](https://tamkar.app/guide-upfront-payment-deposit)
+- [Recurring invoice setup](https://tamkar.app/guide-recurring-invoice-setup)
+- [Late payment fees guide](https://tamkar.app/guide-late-payment-fee)
+- [Invoice dispute resolution guide](https://tamkar.app/guide-invoice-dispute-resolution)
+- [Cash flow management](https://tamkar.app/guide-cash-flow-management)
+- [Payment terms template](https://tamkar.app/guide-payment-terms-template)
+- [Client onboarding billing](https://tamkar.app/guide-client-onboarding-billing)
+- [Milestone payment contracts](https://tamkar.app/guide-milestone-payment-contract)
 
-Every profession has unique payment challenges. Here are tailored strategies:
+## Profession-Specific Guides
 
 - [For freelance writers](https://tamkar.app/for-freelance-writers)
 - [For graphic designers](https://tamkar.app/for-graphic-designers)
@@ -33,44 +46,7 @@ Every profession has unique payment challenges. Here are tailored strategies:
 - [For translators](https://tamkar.app/for-translators)
 - [For copywriters](https://tamkar.app/for-copywriters)
 
-## How-To Guides
-
-Step-by-step guides to improve your payment workflow:
-
-- [How to get paid faster](https://tamkar.app/how-to-get-paid-faster)
-- [How to get clients to pay on time](https://tamkar.app/how-to-get-clients-to-pay-on-time)
-- [Late payment playbook](https://tamkar.app/late-payment-playbook)
-- [Automated invoice follow-up](https://tamkar.app/automated-invoice-follow-up)
-- [Late payment calculator](https://tamkar.app/late-payment-calculator)
-- [Guide: Late payment letter](https://tamkar.app/guide-late-payment-letter)
-- [Guide: Net-30 payment terms](https://tamkar.app/guide-net-30-payment-terms)
-- [Guide: Upfront payment deposits](https://tamkar.app/guide-upfront-payment-deposit)
-- [Guide: Recurring invoice setup](https://tamkar.app/guide-recurring-invoice-setup)
-- [Guide: Late payment fees](https://tamkar.app/guide-late-payment-fee)
-- [Guide: Invoice dispute resolution](https://tamkar.app/guide-invoice-dispute-resolution)
-- [Guide: Cash flow management](https://tamkar.app/guide-cash-flow-management)
-- [Guide: Payment terms template](https://tamkar.app/guide-payment-terms-template)
-- [Guide: Client onboarding billing](https://tamkar.app/guide-client-onboarding-billing)
-- [Guide: Milestone payment contracts](https://tamkar.app/guide-milestone-payment-contract)
-
-## Invoicing Glossary
-
-Understand the terms that affect your cash flow:
-
-- [Net-30](https://tamkar.app/glossary-net-30)
-- [Accounts receivable](https://tamkar.app/glossary-accounts-receivable)
-- [DSO (Days Sales Outstanding)](https://tamkar.app/glossary-dso)
-- [Invoice aging](https://tamkar.app/glossary-invoice-aging)
-- [Late payment fee](https://tamkar.app/glossary-late-payment-fee)
-- [Retainer agreement](https://tamkar.app/glossary-retainer-agreement)
-- [Purchase order](https://tamkar.app/glossary-purchase-order)
-- [Write-off](https://tamkar.app/glossary-write-off)
-- [Payment reminder](https://tamkar.app/glossary-payment-reminder)
-- [Collection agency](https://tamkar.app/glossary-collection-agency)
-
 ## Payment Platform Integrations
-
-How to use Tamkar with your existing payment tools:
 
 - [Use with Stripe](https://tamkar.app/use-with-stripe)
 - [Use with Venmo](https://tamkar.app/use-with-venmo)
@@ -82,8 +58,6 @@ How to use Tamkar with your existing payment tools:
 - [Use with bank transfer](https://tamkar.app/use-with-bank-transfer)
 
 ## Software Comparisons
-
-See how Tamkar compares to other invoicing tools:
 
 - [FreshBooks alternatives](https://tamkar.app/freshbooks-alternatives)
 - [Wave alternatives](https://tamkar.app/wave-alternatives)
@@ -102,19 +76,38 @@ See how Tamkar compares to other invoicing tools:
 - [Get paid faster as a contractor](https://tamkar.app/get-paid-faster-contractor)
 - [Invoice reminder tools for contractors](https://tamkar.app/invoice-reminder-contractors)
 
+## Invoicing Glossary
+
+- [Net-30](https://tamkar.app/glossary-net-30)
+- [Accounts receivable](https://tamkar.app/glossary-accounts-receivable)
+- [DSO](https://tamkar.app/glossary-dso)
+- [Invoice aging](https://tamkar.app/glossary-invoice-aging)
+- [Late payment fee](https://tamkar.app/glossary-late-payment-fee)
+- [Retainer agreement](https://tamkar.app/glossary-retainer-agreement)
+- [Purchase order](https://tamkar.app/glossary-purchase-order)
+- [Write-off](https://tamkar.app/glossary-write-off)
+- [Payment reminder](https://tamkar.app/glossary-payment-reminder)
+- [Collection agency](https://tamkar.app/glossary-collection-agency)
+
+## Tools & Generators
+
+- [Invoice payment reminder template](https://tamkar.app/invoice-payment-reminder-template)
+- [Reminder generator](https://tamkar.app/reminder-generator)
+
 ## About Tamkar
 
 Tamkar is an automated payment reminder platform for small business owners. Create an invoice, set a due date, and Tamkar sends professional, branded reminder emails — before due, on due, and at escalating intervals if overdue. Every reminder includes a one-click pay link. When your client pays, reminders stop automatically.
 
 - [Features](https://tamkar.app/features)
-- [Pricing](https://tamkar.app/pricing) — Free: 5 invoices/month. Pro: $20/month for unlimited automated sequences.
+- [Pricing](https://tamkar.app/pricing)
 - [Demo](https://tamkar.app/demo)
 - [Reviews](https://tamkar.app/reviews)
 - [Integrations](https://tamkar.app/integrations)
-- [Reminder generator](https://tamkar.app/reminder-generator)
 - [About](https://tamkar.app/about)
 - [Contact](https://tamkar.app/contact)
 - [Help center](https://tamkar.app/help)
+- [Privacy](https://tamkar.app/privacy)
+- [Terms](https://tamkar.app/terms)
 
 ---
 
