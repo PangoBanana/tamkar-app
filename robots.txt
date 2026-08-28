@@ -1,0 +1,56 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /relaunch
+Disallow: /onboarding
+Disallow: /your-posts
+Disallow: /verified/submit
+Disallow: /submit/review
+Disallow: /journal/submit
+Disallow: /community/write
+Disallow: /admin/
+Disallow: /founder-ai
+# Google supports $ for an exact path, preserving public /profile/:id pages.
+Disallow: /profile$
+
+# AI search and retrieval agents may access public Tamkar pages, but not
+# authenticated, administrative, or private account surfaces.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Perplexity-Crawler
+User-agent: Bingbot
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /relaunch
+Disallow: /onboarding
+Disallow: /your-posts
+Disallow: /verified/submit
+Disallow: /submit/review
+Disallow: /journal/submit
+Disallow: /community/write
+Disallow: /admin/
+Disallow: /founder-ai
+Disallow: /profile$
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /relaunch
+Disallow: /onboarding
+Disallow: /your-posts
+Disallow: /verified/submit
+Disallow: /submit/review
+Disallow: /journal/submit
+Disallow: /community/write
+Disallow: /admin/
+Disallow: /founder-ai
+Disallow: /profile$
+
+Sitemap: https://tamkar.app/sitemap.xml
