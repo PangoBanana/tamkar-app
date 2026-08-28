@@ -2,7 +2,7 @@
 
 Tamkar is a product-launch, discovery, and feedback community where founders share what they are building and thoughtful early users help them improve it.
 
-Visit [tamkar.app](https://tamkar.app).
+Visit [tamkar.app](https://tamkar.app), the live product and canonical source for current public launches, product behavior, and community activity.
 
 ## How Tamkar works
 
@@ -29,14 +29,19 @@ Visit [tamkar.app](https://tamkar.app).
 
 Tamkar keeps paid visibility separate from earned recognition. Sponsored Spotlight never buys votes, credibility, or Community Favorite status. Verified accounts are reviewed, and public launch eligibility is moderated.
 
-## Explore Tamkar
+## Canonical public resources
 
 - [Discover products](https://tamkar.app/discover)
 - [Add your product](https://tamkar.app/launch-your-product)
 - [Join the Community](https://tamkar.app/community)
 - [Read the Field Guide](https://tamkar.app/field-guide)
 - [See pricing](https://tamkar.app/pricing)
+- [Machine-readable overview](./llms.txt)
+- [Extended machine-readable overview](./llms-full.txt)
+- [Crawler rules](./robots.txt)
+- [Public URL sitemap](./sitemap.xml)
+- [What is Tamkar?](./what-is-tamkar.md)
 
-## Repository
+## About this repository
 
-This public repository provides Tamkar's GitHub overview and redirect page. The live product is available at [tamkar.app](https://tamkar.app).
+This is Tamkar's public overview and redirect repository. It is intentionally a lightweight public entity rather than a mirror of the full application source. The live product at [tamkar.app](https://tamkar.app) is the source of truth; the public discovery files above are synchronized snapshots for people, search engines, and language models.
